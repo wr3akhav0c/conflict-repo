@@ -1,1 +1,3 @@
 file from desktop
+
+added second line with git desktop commit
